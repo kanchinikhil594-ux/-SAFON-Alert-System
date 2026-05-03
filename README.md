@@ -1,3 +1,4 @@
+<img width="1249" height="578" alt="image" src="https://github.com/user-attachments/assets/918e55e3-e3ae-41e0-8a5f-60ba83b0c09d" />
 💡 How it works
 
 The ESP32 connects to WiFi and keeps running in the background.
